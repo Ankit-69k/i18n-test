@@ -2,7 +2,7 @@
   "error": {
     "title": "Something went wrong!",
     "description": "We apologize for the inconvenience. An unexpected error has occurred.",
-    "go_home": "Go Home",
+    "go_home": "Go",
     "rate_limit": {
       "title": "Too Many Requests",
       "description": "You have made too many requests. Please wait 60 seconds before trying again.",
