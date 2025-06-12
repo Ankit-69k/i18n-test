@@ -2,7 +2,7 @@
   "error": {
     "title": "Something went wrong!",
     "description": "We apologize for the inconvenience. An unexpected error has occurred.",
-    "go_home": "Go Home",
+    "go_home": "Go",
     "rate_limit": {
       "title": "Too Many Requests",
       "description": "You have made too many requests. Please wait 60 seconds before trying again.",
@@ -692,7 +692,8 @@
     "mfa_removal_failed": "Failed to disable two-factor authentication. Please try again.",
     "external_organization_from": "External from",
     "quick_action": "Global search",
-    "change_language_to": "Change language to {{language}}"
+    "change_language_to": "Change language to {{language}}",
+    "view_dataset": ""
   },
   "roles": {
     "owner": "Owner",
