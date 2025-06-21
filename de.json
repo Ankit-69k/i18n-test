@@ -7,56 +7,55 @@
       "title": "Zu viele Anfragen",
       "description": "Sie haben zu viele Anfragen gestellt. Bitte warten Sie 60 Sekunden, bevor Sie es erneut versuchen.",
       "close": "Schließen"
-
-  },
-  "auth": {
-    "signin": {
-      "title": "Die Software-Suite für die öffentliche Verwaltung",
-      "description": "Für Bund, Länder und Kommunen",
-      "session_expired": "Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.",
-      "signin_title": "Login",
-      "email_label": "E-Mail",
-      "email_placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
-      "email_signin": "Weiter",
-      "email_info": "Sie erhalten einen Einmal-Code per E-Mail, um sich ohne Passwort anzumelden",
-      "forgot_password": "Passwort vergessen",
+    },
+    "auth": {
+      "signin": {
+        "title": "Die Software-Suite für die öffentliche Verwaltung",
+        "description": "Für Bund, Länder und Kommunen",
+        "session_expired": "Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.",
+        "signin_title": "Login",
+        "email_label": "E-Mail",
+        "email_placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
+        "email_signin": "Weiter",
+        "email_info": "Sie erhalten einen Einmal-Code per E-Mail, um sich ohne Passwort anzumelden",
+        "forgot_password": "Passwort vergessen",
+        "contact_us": "Bitte kontaktieren Sie uns",
+        "invalid_email": "Ungültige E-Mail-Adresse",
+        "otp_req_failed": "Der Einmal-Code konnte nicht gesendet werden",
+        "login_with_password": "Mit Passwort anmelden",
+        "password_label": "Passwort",
+        "password_placeholder": "Geben Sie Ihr Passwort ein",
+        "login_with_email": "Mit Einmal-Code anmelden",
+        "failed_to_login_with_password": "Ungültige E-Mail-Adresse oder Passwort. Bitte überprüfen Sie Ihre Anmeldeinformationen und versuchen Sie es erneut."
+      },
+      "otp": {
+        "find_code": "Sie finden Ihren Einmal-Code in Ihrem E-Mail-Posteingang",
+        "code_sent_info": "Wir haben einen 6-stelligen Code an {{email}} gesendet",
+        "code_validity": "Der Code ist 15 Minuten lang gültig",
+        "no_code": "Kein Code erhalten? Überprüfen Sie Ihre E-Mail-Adresse, schauen Sie im Spam-Ordner nach oder kontaktieren Sie uns",
+        "invalid_code": "Ihr Code ist ungültig. Bitte versuchen Sie es erneut",
+        "help_section": "über support@polyteia.de",
+        "resend_otp": "Einmal-Code erneut senden",
+        "retry_in": "Erneut versuchen in {{minutes}}:{{seconds}}",
+        "sending": "Wird gesendet..."
+      },
       "contact_us": "Bitte kontaktieren Sie uns",
-      "invalid_email": "Ungültige E-Mail-Adresse",
-      "otp_req_failed": "Der Einmal-Code konnte nicht gesendet werden",
-      "login_with_password": "Mit Passwort anmelden",
-      "password_label": "Passwort",
-      "password_placeholder": "Geben Sie Ihr Passwort ein",
-      "login_with_email": "Mit Einmal-Code anmelden",
-      "failed_to_login_with_password": "Ungültige E-Mail-Adresse oder Passwort. Bitte überprüfen Sie Ihre Anmeldeinformationen und versuchen Sie es erneut."
-    },
-    "otp": {
-      "find_code": "Sie finden Ihren Einmal-Code in Ihrem E-Mail-Posteingang",
-      "code_sent_info": "Wir haben einen 6-stelligen Code an {{email}} gesendet",
-      "code_validity": "Der Code ist 15 Minuten lang gültig",
-      "no_code": "Kein Code erhalten? Überprüfen Sie Ihre E-Mail-Adresse, schauen Sie im Spam-Ordner nach oder kontaktieren Sie uns",
-      "invalid_code": "Ihr Code ist ungültig. Bitte versuchen Sie es erneut",
-      "help_section": "über support@polyteia.de",
-      "resend_otp": "Einmal-Code erneut senden",
-      "retry_in": "Erneut versuchen in {{minutes}}:{{seconds}}",
-      "sending": "Wird gesendet..."
-    },
-    "contact_us": "Bitte kontaktieren Sie uns",
-    "imprint": "Impressum",
-    "data_protection": "Datenschutzerklärung",
-    "operated_by": "Betrieben von",
-    "mfa": {
-      "request_mfa": "Authenticator-App",
-      "request_mfa_desc": "Bitte geben Sie den 6-stelligen Code aus Ihrer Authenticator-App ein, um fortzufahren.",
-      "setup_title": "Authenticator-App für Ihr Konto einrichten",
-      "scan_qr": "Scannen Sie den QR-Code mit Ihrer Authenticator-App auf Ihrem Smartphone (z. B. Microsoft Authenticator, Authy oder Duo). Falls Sie keine App installiert haben, laden Sie diese aus dem App Store oder Google Play Store herunter.",
-      "scan_qr_desc": "Im nächsten Bildschirm werden Sie aufgefordert, einen Code einzugeben, um die Einrichtung zu bestätigen.",
-      "verify_code": "Bitte geben Sie nun den 6-stelligen Code aus Ihrer Authenticator-App ein.",
-      "setup_success": "Vielen Dank, dass Sie Sicherheit ernst nehmen!",
-      "invalid_code": "Ihr Code ist ungültig. Bitte versuchen Sie es erneut.",
-      "remove_mfa": "TOTP entfernen",
-      "remove_mfa_desc": "Sind Sie sicher, dass Sie TOTP entfernen möchten? Dies macht Ihr Konto weniger sicher.",
-      "setup_success_desc": "Sie können TOTP jederzeit von Ihrem Konto entfernen. Wir empfehlen dies jedoch nicht."
+      "imprint": "Impressum",
+      "data_protection": "Datenschutzerklärung",
+      "operated_by": "Betrieben von",
+      "mfa": {
+        "request_mfa": "Authenticator-App",
+        "request_mfa_desc": "Bitte geben Sie den 6-stelligen Code aus Ihrer Authenticator-App ein, um fortzufahren.",
+        "setup_title": "Authenticator-App für Ihr Konto einrichten",
+        "scan_qr": "Scannen Sie den QR-Code mit Ihrer Authenticator-App auf Ihrem Smartphone (z. B. Microsoft Authenticator, Authy oder Duo). Falls Sie keine App installiert haben, laden Sie diese aus dem App Store oder Google Play Store herunter.",
+        "scan_qr_desc": "Im nächsten Bildschirm werden Sie aufgefordert, einen Code einzugeben, um die Einrichtung zu bestätigen.",
+        "verify_code": "Bitte geben Sie nun den 6-stelligen Code aus Ihrer Authenticator-App ein.",
+        "setup_success": "Vielen Dank, dass Sie Sicherheit ernst nehmen!",
+        "invalid_code": "Ihr Code ist ungültig. Bitte versuchen Sie es erneut.",
+        "remove_mfa": "TOTP entfernen",
+        "remove_mfa_desc": "Sind Sie sicher, dass Sie TOTP entfernen möchten? Dies macht Ihr Konto weniger sicher.",
+        "setup_success_desc": "Sie können TOTP jederzeit von Ihrem Konto entfernen. Wir empfehlen dies jedoch nicht."
+      }
     }
   }
-  
 }
