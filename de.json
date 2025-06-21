@@ -28,7 +28,7 @@
       "password_placeholder": "Geben Sie Ihr Passwort ein",
       "login_with_email": "Mit Einmal-Code anmelden",
       "failed_to_login_with_password": "Ungültige E-Mail-Adresse oder Passwort. Bitte überprüfen Sie Ihre Anmeldeinformationen und versuchen Sie es erneut."
-    },
+    
     "otp": {
       "find_code": "Sie finden Ihren Einmal-Code in Ihrem E-Mail-Posteingang",
       "code_sent_info": "Wir haben einen 6-stelligen Code an {{email}} gesendet",
