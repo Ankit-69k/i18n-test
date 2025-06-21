@@ -8,6 +8,7 @@
       "description": "Sie haben zu viele Anfragen gestellt. Bitte warten Sie 60 Sekunden, bevor Sie es erneut versuchen.",
       "close": "Schließen"
     },
+  }
     "auth": {
       "signin": {
         "title": "Die Software-Suite für die öffentliche Verwaltung",
