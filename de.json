@@ -1261,5 +1261,10 @@
       }
     }
   },
-  "check": ""
+  "check": "",
+  "common": {
+    "button": {
+      "save": ""
+    }
+  }
 }

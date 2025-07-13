@@ -693,7 +693,10 @@
     "external_organization_from": "External from",
     "quick_action": "Global search",
     "change_language_to": "Change language to {{language}}",
-    "view_dataset": ""
+    "view_dataset": "",
+    "button": {
+      "save": ""
+    }
   },
   "roles": {
     "owner": "Owner",
