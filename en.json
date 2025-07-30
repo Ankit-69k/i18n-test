@@ -638,7 +638,9 @@
     "cancel": "Cancel",
     "search": "Search",
     "search_for": "Search for {{type}}",
-    "save": "Save",
+    "save": {
+      "cancel": ""
+    },
     "saving": "Saving...",
     "publish": "Publish",
     "title": "Title",
